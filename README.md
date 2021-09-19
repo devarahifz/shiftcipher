@@ -1,3 +1,2 @@
-# shiftcipher
+# Program Shift Cipher
 
-Program Shift Cipher
