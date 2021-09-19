@@ -77,7 +77,7 @@ int main(){
     int key;
     do{
         system("cls");
-        cout << "==== PROGRAM SHIFT CIPHER ====";
+        cout << "==== PROGRAM SHIFT CIPHER ====\n";
         cout << "Masukkan Plainteks : "; getline(cin >> ws, plainteks);
         cout << "Masukkan Key : "; cin >> key;
         
