@@ -1,8 +1,8 @@
 # Program Shift Cipher
 
-Nama  : Devara Hifzhurrahman
-NPM   : 140810190019
-Kelas : A
+Nama  : Devara Hifzhurrahman</br>
+NPM   : 140810190019</br>
+Kelas : A</br></br>
 
-Hasil Program
+Hasil Program</br>
 ![Alt text](ss.PNG?raw=true "Optional Title")
